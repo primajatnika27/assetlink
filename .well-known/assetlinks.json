@@ -1,8 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "uk.co.jakelee.apodwallpaper",
-    "sha256_cert_fingerprints": ["7B:E3:6A:AF:1C:55:D7:52:D0:A0:65:20:51:8F:D6:D9:EC:1C:EA:85:34:AE:EA:71:3D:04:59:31:3E:17:7F:29"]
-  }
+  "target" : { "namespace": "android_app", "package_name": "com.example.bniagen46",
+               "sha256_cert_fingerprints": ["59:EE:54:90:FB:EE:AA:81:10:69:EB:7:0:90:19:55:76:6B:75:2D:60:E0:97:F2:A5:68: 7B: D9: 2B: 47:90:AE"] }
 }]
